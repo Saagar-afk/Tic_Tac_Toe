@@ -1,3 +1,6 @@
+###Python Beginner
+###Random code
+
 ###-----------Global Valiable-----------
 gameon = True
 turn = "X"
